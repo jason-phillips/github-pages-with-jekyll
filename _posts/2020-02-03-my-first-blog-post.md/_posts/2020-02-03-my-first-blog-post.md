@@ -1,1 +1,6 @@
+---
+title: "New post"
+date: 2002-02-03
+---
+
 This is a quick blog post
